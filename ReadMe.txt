@@ -1,20 +1,19 @@
                           THIS MALVARE IS MADE FOR EDUCATIONAL PURPOSES !!!! 
                                   PLEASE USE THIS AT YOUR OWN RISK ⚠️
-
-                    A cross platform Information Stealer written in the legendary language Rust and a tiny bit of ASM.
+                   A cross platform Information Stealer written in the legendary language Rust and a tiny bit of Assembly.
 
 
 
 About me and motivation
-For those you dont know me, I am a 18 year old dude from the land down under  who loves to do malvare related things such as malvare analysis, research and penentration testing . So recently after thinking of many project ideas, my discord friend Nullvoid and I had decided to write a Information Stealer in the language Rust. This motivation basically stemed from our interest of doing something related to our future career in Cyber Security and secondly our curiousity to deeply explore the dark areas of computing systems. wE  want to make something that is really advanced so this project will take a long time to be considered as complete. 
+For those you dont know me, I am a 18 year old dude from the land down under  who loves to do malvare related things such as malvare analysis, research and penentration testing . So recently after thinking of many project ideas, my discord friend Nullvoid and I had decided to write a Information Stealer in the language Rust. This motivation basically stemed from our interest of doing something related to our future career in Cyber Security and secondly our curiousity to deeply explore the dark areas of computing systems. we want to make something that is really advanced so this project will take a long time to be considered as complete. 
 
 
 Why Rust ?
 This is a question that smiley needs to answer lol because i intially wanted to do this in C++ hahhahhhhaha. 
-
+# Needs some work 
 
 Why are we restricting others to contribute to our project 
-1. The risk of being sued because some individual decided to modify the code in order to suit their malicious needs 
+#Needs some work
 
 
 
