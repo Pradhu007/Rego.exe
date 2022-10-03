@@ -5,7 +5,7 @@
 
 
 About me and motivation
-For those you dont know me, I am a 18 year old dude from the land down under  who loves to do malvare related things such as malvare analysis, research and penentration testing . So recently after thinking of many project ideas, my discord friend Nullvoid and I had decided to write a Information Stealer in the language Rust. This motivation basically stemed from our interest of doing something related to our future career in Cyber Security and secondly our curiousity to deeply explore the dark areas of computing systems. Everytime i get  on github, i see a lot of people writing malvare and  wanted to create my own but  because of the lack of  programming knowledge , it turned out to be a barrier.  
+For those you dont know me, I am a 18 year old dude from the land down under  who loves to do malvare related things such as malvare analysis, research and penentration testing . So recently after thinking of many project ideas, my discord friend Nullvoid and I had decided to write a Information Stealer in the language Rust. This motivation basically stemed from our interest of doing something related to our future career in Cyber Security and secondly our curiousity to deeply explore the dark areas of computing systems. Everytime i get  on github, i see a lot of people writing malvare and  wanted to create my own but  because of the lack of  programming knowledge , it turned out to be a barrier. I created this project because i wanted to achieve this goal of mine.  
 
 
 Why Rust ?
