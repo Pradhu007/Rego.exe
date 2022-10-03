@@ -27,10 +27,22 @@ Build Targets
 
 Features 
 . Network Info
+. Keylogger 
 . System Information 
 . Discord token grabber 
 . Web browser password grabber 
 . C2 server for remote shell access 
+. Boot sector virus (Would be really cool)
+. Camera Access 
+. Microphone Access 
+. Process Injection
+. Public IP Grabber 
+. Battery Info
+. Silent execution and consumes low cpu resources 
+. Ransomware Module included 
+. Messagebox 
+
+
 
 
 
