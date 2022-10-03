@@ -41,6 +41,8 @@ Features
 . Silent execution and consumes low cpu resources 
 . Ransomware Module included 
 . Messagebox 
+. MBR Overwrite(Windows Only)
+
 
 
 
