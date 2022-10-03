@@ -1,7 +1,7 @@
                           THIS MALVARE IS MADE FOR EDUCATIONAL PURPOSES !!!! 
                                   PLEASE USE THIS AT YOUR OWN RISK ⚠️
 
-                      A cross platform Information Stealer written in the legendary language Rust.
+                      A cross platform Information Stealer written in the legendary language Rust and a tiny bit of asm.
 
 
 
