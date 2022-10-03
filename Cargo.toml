@@ -6,9 +6,13 @@ resolver = "2"
 
 [dependencies]
 
-[target.'cfg(unix)'.dependencies]
+[target.'cfg(target_os = "linux")'.dependencies]
 nmdbus = { version = "1.37.3", optional = true }
+dbus = { version = "0.9.6", optional = true }
+
+[target.'cfg(target_family = "windows")'.dependencies]
+windows = { version = "*", optional = true }
 
 [features]
 default = ["wireless"]
-wireless = ["dep:nmbus"]
+wireless = ["dep:nmdbus", "dep:dbus", "dep:windows"]
