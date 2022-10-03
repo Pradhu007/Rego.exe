@@ -26,7 +26,12 @@ Build Targets
 
 
 Features 
-# To be decided
+. Network Info
+. System Information 
+. Discord token grabber 
+. Web browser password grabber 
+. C2 server for remote shell access 
+
 
 
 
