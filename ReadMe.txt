@@ -19,6 +19,10 @@ Why are we restricting others to contribute to our project
 
 
 
+Build Targets
+. Windows(all versions)
+. Mac OS(all versions)
+. Linux(all versions)
 
 
 
