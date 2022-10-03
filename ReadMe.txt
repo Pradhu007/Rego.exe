@@ -28,6 +28,6 @@ Contributers
 Pradhu007
 Nullvoid(smiley)
 
-Note: THE AUTHORS/OWNERS ARE NOT RESPONSIBLE FOR ANY TROUBLE CAUSED BY THIS PROJECT AND  SHOULD NOT BE HELD RESPONSIBLE. Please use this code at your own risk. By Modifying or using this code, you are acknowledging the risks involved in this project and also recognising the fact that you could be held responsible if the code was misused. Only use this tool on the machines you own and we strongly condemn the use of this code for illegal purposes. 
+Note: THE AUTHORS/OWNERS ARE NOT RESPONSIBLE FOR ANY TROUBLE CAUSED BY THIS PROJECT AND  SHOULD NOT BE HELD accountable if any legal troubles arise . Please use this code at your own risk. By Modifying or using this code, you are acknowledging the risks involved in this project and also recognising the fact that you could be held responsible if the code was misused for malicious purposes . Only use this tool on the machines you own or have permission to attack   and we strongly condemn the use of this code for illegal purposes.  
 
 
